@@ -41,7 +41,7 @@ In this, we generate the summaries using the Text Rank algorithm along with text
 **16.gTTs**- gTTs (Google Text-to-Speech) is a Python library and CLI tool to interface with Google Translate text-to-speech API.
 
 ## UI Screenshots
-![image](https://user-images.githubusercontent.com/58966938/167264626-ccab8a3c-2a8d-4058-b2f0-fe6d365ed7bb.png)
+![image](https://user-images.githubusercontent.com/58966938/167264659-c9ec03d4-c145-47a3-a329-342df2084926.png)
 
 ![image](https://user-images.githubusercontent.com/58966938/167264633-9f8504e8-b4f2-4b14-b113-319b505600e3.png)
 
