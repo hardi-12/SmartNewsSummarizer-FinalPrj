@@ -5,6 +5,6 @@ On a daily basis, we read multiple news articles, but a single news topic may no
 In this, we generate the summaries using the Text Rank algorithm along with text classification using Logistic Regression, Random Forest, Multinomial Naive Bayes, Support Vector Classifier, Decision tree Classifier, K Nearest Neighbour, and Gaussian Naive Bayes models and evaluate the performance of the above-mentioned models using precision, recall, f1 score, and accuracy score on the BBC news dataset. 
 
 ## Diagram
-<img src="C:/Users/HARDI/Desktop/FINAL YEAR PROJECT/Final/final_block.png" alt="Alt text" title="Optional title">
+<img src="![final_block](https://user-images.githubusercontent.com/58966938/167264159-4ec3a298-80d0-46d7-b786-ab92597a8add.png)" alt="Alt text" title="Optional title">
 
 
